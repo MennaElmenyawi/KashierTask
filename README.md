@@ -1,6 +1,10 @@
 # KashierTask
 This project is for testing registration page of kashier 
 It contains :
-a. Signup successfully 
-b. Signup with invalid phone
-c. Signup with invalid email
+ Signup successfully 
+ Signup with invalid phone
+ Signup with invalid email
+### Operating system
+
+* Windows 
+
